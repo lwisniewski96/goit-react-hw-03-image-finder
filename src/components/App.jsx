@@ -110,6 +110,7 @@ export class App extends Component {
             />
           </Loader>
         )}
+        <div id="modal-root"></div>
       </div>
     );
   }
